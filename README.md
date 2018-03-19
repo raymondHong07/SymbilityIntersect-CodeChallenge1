@@ -14,7 +14,8 @@ Whilst making the initial request hitting the first endpoint to retrieve the nam
 - Provided the ability to slide down from the top of the table view to refresh/repopulate the price data of all the coins in the table with the most recent and up to date prices. (Endpoint chaches the price data for 10 seconds must wait for > 10 seconds to actually see price updates when testing)
 
 # With More Time...
-With more time and with the mindset of creating this app to be a full application for real users to use I would ...
+With more time and with the mindset of creating this app to be a full application for real users to use I would:
+    
     - Set up caching so that user favourites are saved for the next time they open the app and so that all coins can have images
     - Set up searching so that users can filter through the coins and select the one they are looking for very easily
     - Set up a delegate/protocol for seguing from the splashScreen only when all coin/price data has been retrieved and the table has been populated
