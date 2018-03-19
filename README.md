@@ -20,4 +20,4 @@ With more time and with the mindset of creating this app to be a full applicatio
 - Set up searching so that users can filter through the coins and select the one they are looking for very easily
 - Set up a delegate/protocol for seguing from the splashScreen only when all coin/price data has been retrieved and the table has been populated
 
-![splashscreen](https://user-images.githubusercontent.com/18080330/37580944-b6193f42-2b1c-11e8-8324-689d1c884094.jpg) ![initalload](https://user-images.githubusercontent.com/18080330/37580998-fa4e4900-2b1c-11e8-97a7-99cf0b2224d4.jpg)![favourited](https://user-images.githubusercontent.com/18080330/37581004-03b39356-2b1d-11e8-9b9b-35a7a5a54513.jpg)
+![splashscreen](https://user-images.githubusercontent.com/18080330/37580944-b6193f42-2b1c-11e8-8324-689d1c884094.jpg) ![initalload](https://user-images.githubusercontent.com/18080330/37580998-fa4e4900-2b1c-11e8-97a7-99cf0b2224d4.jpg)![favourited](https://user-images.githubusercontent.com/18080330/37581004-03b39356-2b1d-11e8-9b9b-35a7a5a54513.jpg)![img_0741](https://user-images.githubusercontent.com/18080330/37581887-c7ac44e4-2b20-11e8-9fab-3c55bd764153.jpeg)
