@@ -12,6 +12,7 @@ Whilst making the initial request hitting the first endpoint to retrieve the nam
 - All coins are filtered by their respective sortOrder from the initial request to ensure that the table data is essentially sorted from the top ranked coin to the lowest ranked coin
 - Only the top 150 coins have images to reduce the amount of data needed to be downloaded, considering caching is not implemented in this app
 - Provided the ability to slide down from the top of the table view to refresh/repopulate the price data of all the coins in the table with the most recent and up to date prices. (Endpoint chaches the price data for 10 seconds must wait for > 10 seconds to actually see price updates when testing)
+- Implemented an alert view message if request to endpoint fails for whatever reason or device is not connected to network
 
 # With More Time...
 With more time and with the mindset of creating this app to be a full application for real users to use I would:
